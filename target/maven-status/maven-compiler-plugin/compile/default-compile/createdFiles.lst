@@ -1,0 +1,6 @@
+models\Contact_type.class
+controller\menu.class
+models\Agenda.class
+com\agenda\advancedagenda\AdvancedAgenda.class
+controller\agendaController.class
+helpers\helper.class
